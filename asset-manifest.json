@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Outlay-manager/static/css/main.a86b75a0.css",
+    "main.js": "/Outlay-manager/static/js/main.afca4cce.js",
+    "index.html": "/Outlay-manager/index.html",
+    "main.a86b75a0.css.map": "/Outlay-manager/static/css/main.a86b75a0.css.map",
+    "main.afca4cce.js.map": "/Outlay-manager/static/js/main.afca4cce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a86b75a0.css",
+    "static/js/main.afca4cce.js"
+  ]
+}
